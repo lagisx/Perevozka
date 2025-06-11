@@ -1,5 +1,6 @@
 package com.example.demo;
 
+// Контроллер для поиска по имени
 import javafx.fxml.FXML;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
